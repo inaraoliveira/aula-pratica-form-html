@@ -1,0 +1,12 @@
+{
+  "name": "atividade01",
+  "version": "1.0.0",
+  "description": "Atividade formulario",
+  "main": "formulario.html",
+  "scripts": {
+  "keywords": [
+    "formulario"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
